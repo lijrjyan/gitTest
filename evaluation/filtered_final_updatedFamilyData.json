@@ -1,0 +1,300 @@
+{
+    "Yi-1.5": {
+        "Yi-1.5-6.0B": {
+            "mmlu": {
+                "acc,none": 0.6276883634809857,
+                "acc_stderr,none": 0.003838645572251585,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.652289820136085,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "Yi-1.5-9.0B": {
+            "mmlu": {
+                "acc,none": 0.6839481555333998,
+                "acc_stderr,none": 0.0036743158936708847,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.7425082163785829,
+                "acc_stderr,none,none": "N/A"
+            }
+        }
+    },
+    "bloom": {
+        "bloom-0.56B": {
+            "mmlu": {
+                "acc,none": 0.2299529981484119,
+                "acc_stderr,none": 0.003545482078953296,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.29252328716626874,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "bloom-1.1B": {
+            "mmlu": {
+                "acc,none": 0.24035037743911125,
+                "acc_stderr,none": 0.0036025558917477545,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.3010527192280794,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "bloom-1.7B": {
+            "mmlu": {
+                "acc,none": 0.25345392394245836,
+                "acc_stderr,none": 0.0036686079796690346,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.32242191113075996,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "bloom-3.0B": {
+            "mmlu": {
+                "acc,none": 0.2593647628542943,
+                "acc_stderr,none": 0.003695702716317818,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.3046361815020503,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "bloom-7.1B": {
+            "mmlu": {
+                "acc,none": 0.2639225181598063,
+                "acc_stderr,none": 0.0037146568078992616,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.30572584220409466,
+                "acc_stderr,none,none": "N/A"
+            }
+        }
+    },
+    "pythia": {
+        "pythia-0.07B": {
+            "mmlu": {
+                "acc,none": 0.22959692351516878,
+                "acc_stderr,none": 0.003543630146296216,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.3140600501289459,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "pythia-0.16B": {
+            "mmlu": {
+                "acc,none": 0.23009542800170915,
+                "acc_stderr,none": 0.0035464532260202344,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.2728508747777333,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "pythia-0.41B": {
+            "mmlu": {
+                "acc,none": 0.2337986041874377,
+                "acc_stderr,none": 0.0035676665740106625,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.29070446976529163,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "pythia-1.0B": {
+            "mmlu": {
+                "acc,none": 0.23308645492095142,
+                "acc_stderr,none": 0.0035651566866391647,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.26923896265860153,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "pythia-1.4B": {
+            "mmlu": {
+                "acc,none": 0.24398233869819114,
+                "acc_stderr,none": 0.0036172771960345093,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.32741005467065865,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "pythia-2.8B": {
+            "mmlu": {
+                "acc,none": 0.2477567298105683,
+                "acc_stderr,none": 0.0036381371880230386,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.29351073555476886,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "pythia-6.9B": {
+            "mmlu": {
+                "acc,none": 0.2550206523287281,
+                "acc_stderr,none": 0.003676331633411023,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.28936477294698365,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "pythia-12.0B": {
+            "mmlu": {
+                "acc,none": 0.2388548639794901,
+                "acc_stderr,none": 0.003593649076616158,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.30031691749868283,
+                "acc_stderr,none,none": "N/A"
+            }
+        }
+    },
+    "gpt2": {
+        "gpt2-0.124B": {
+            "mmlu": {
+                "acc,none": 0.22924084888192564,
+                "acc_stderr,none": 0.0035412774997792876,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.29711878513128276,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "gpt2-0.355B": {
+            "mmlu": {
+                "acc,none": 0.23180458624127617,
+                "acc_stderr,none": 0.0035550979867931135,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.2927750508260582,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "gpt2-0.774B": {
+            "mmlu": {
+                "acc,none": 0.23123486682808717,
+                "acc_stderr,none": 0.0035533217661025715,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.3162257837262001,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "gpt2-1.5B": {
+            "mmlu": {
+                "acc,none": 0.25573280159521433,
+                "acc_stderr,none": 0.003679818469152143,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.2963450450854722,
+                "acc_stderr,none,none": "N/A"
+            }
+        }
+    },
+    "Qwen1.5": {
+        "Qwen1.5-0.5B": {
+            "mmlu": {
+                "acc,none": 0.3662583677538812,
+                "acc_stderr,none": 0.004013935898832145,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.47641199229916115,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "Qwen1.5-1.8B": {
+            "mmlu": {
+                "acc,none": 0.4539239424583393,
+                "acc_stderr,none": 0.004078614279628321,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.451130796250336,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "Qwen1.5-4.0B": {
+            "mmlu": {
+                "acc,none": 0.5420880216493377,
+                "acc_stderr,none": 0.004029186940771914,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.5758425871504246,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "Qwen1.5-7.0B": {
+            "mmlu": {
+                "acc,none": 0.5979205241418601,
+                "acc_stderr,none": 0.003937891958692374,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.5926792187235694,
+                "acc_stderr,none,none": "N/A"
+            }
+        },
+        "Qwen1.5-14.0B": {
+            "mmlu": {
+                "acc,none": 0.6570289132602194,
+                "acc_stderr,none": 0.003774477239601439,
+                "alias": "mmlu"
+            },
+            "tinyMMLU": {
+                "alias": "tinyMMLU",
+                "acc,none": 0.6779600473635192,
+                "acc_stderr,none,none": "N/A"
+            }
+        }
+    }
+}
